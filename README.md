@@ -60,5 +60,5 @@ I wrote 31 tests in total:
 
 ## Student
 
-Atrin Yasari
+Atrin Yassari
 
